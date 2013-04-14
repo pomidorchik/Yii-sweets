@@ -1,0 +1,1 @@
+<?php return array ('Invalid PHP code'=>'Невалидный PHP код') ?>
